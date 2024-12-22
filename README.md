@@ -13,5 +13,5 @@ PENGUINMOD nileg2 (small because penguin mod dont like all letters to be big!)
 -----------------------------------------------
 forgot more ! (give update if i know it again) :)
 -------------------------------------------------
-END
+END / NILEG2mc
 -------------------------------------------------
